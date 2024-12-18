@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: RatingService
+  main:
+    banner-mode: off
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017
+      database: microservices-app
+
+server:
+  port: 8083
+
+

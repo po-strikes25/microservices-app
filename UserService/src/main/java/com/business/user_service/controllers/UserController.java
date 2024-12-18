@@ -3,7 +3,6 @@ package com.business.user_service.controllers;
 import com.business.user_service.entities.User;
 import com.business.user_service.exceptions.ResourceNotFoundException;
 import com.business.user_service.services.UserService;
-import jakarta.persistence.EntityNotFoundException;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

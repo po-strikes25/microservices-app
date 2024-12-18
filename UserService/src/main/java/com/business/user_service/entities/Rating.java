@@ -11,6 +11,7 @@ import lombok.NoArgsConstructor;
 public class Rating
 {
     private String  ratingId;
+    /* can't we use single-reference to user here ?? */
     private String  userId;
     private String  hotelId;
     private int     rating;

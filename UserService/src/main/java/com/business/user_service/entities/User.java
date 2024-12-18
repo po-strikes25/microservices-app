@@ -10,10 +10,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Entity
-@Builder
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
+@Builder
 @Table(name = "micro_user")
 public class User
 {

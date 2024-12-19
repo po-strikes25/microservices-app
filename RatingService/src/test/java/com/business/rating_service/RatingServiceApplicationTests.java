@@ -1,4 +1,4 @@
-package com.business.rating_service.RatingService;
+package com.business.rating_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

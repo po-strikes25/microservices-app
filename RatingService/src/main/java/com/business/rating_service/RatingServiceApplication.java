@@ -1,4 +1,4 @@
-package com.business.rating_service.RatingService;
+package com.business.rating_service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

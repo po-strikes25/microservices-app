@@ -1,4 +1,4 @@
-package com.business.rating_service.impl;
+package com.business.rating_service.services.impl;
 
 import com.business.rating_service.entities.Rating;
 import com.business.rating_service.repositories.RatingRepository;

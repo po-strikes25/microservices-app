@@ -1,4 +1,4 @@
-package com.business.hotel_service.impl;
+package com.business.hotel_service.services.impl;
 
 import com.business.hotel_service.entities.Hotel;
 import com.business.hotel_service.exceptions.ResourceNotFoundException;
